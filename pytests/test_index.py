@@ -38,3 +38,4 @@ def test_pyeongchang_keys():
 def test_pyeongchang_values():
     assert type(pyeongchang_values) == type(list())
     assert pyeongchang_values == ['PyeongChang', 'South Korea', 2581000, 3194]
+def just_trying ():
